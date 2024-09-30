@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mariya
+- Hi 👋, I’m Mariya
 - I am a software developer 💻 in IBM, India Software Labs 🏛️
 
 <!---
